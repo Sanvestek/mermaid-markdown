@@ -1,3 +1,5 @@
+'''mermaid
+
 flowchart TB
   %% ===== Clients / Code =====
   subgraph Clients["Clients & Codebases"]
@@ -100,3 +102,5 @@ flowchart TB
 
   %% PoS vendors
   PoS --> Integrations
+
+  '''

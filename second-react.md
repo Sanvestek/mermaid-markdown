@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 
 flowchart TB
   %% ===== Clients / Code =====
@@ -103,4 +103,4 @@ flowchart TB
   %% PoS vendors
   PoS --> Integrations
 
-  '''
+```
